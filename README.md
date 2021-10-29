@@ -1,6 +1,7 @@
-### Hi there 👋 Obey your heart
+### Hi there 👋 **朋友啊，逗阵来博**
 
-**朋友啊，逗阵来博**
+Give me the truth.
+
 <!--
 **lbh2001/lbh2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
