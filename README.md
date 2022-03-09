@@ -1,4 +1,4 @@
-### Hi there 👋 **朋友啊，逗阵来博**
+### The dream is golang, the reality is python.
 
 <!--
 **lbh2001/lbh2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
