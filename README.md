@@ -1,4 +1,4 @@
-## Approaching on Golang and C++
+## Focusing on Golang and C++
 
 <!--
 **lbh2001/lbh2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
